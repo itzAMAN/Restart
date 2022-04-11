@@ -37,7 +37,7 @@ var body: some View {
                     .fontWeight(.heavy)
                     .foregroundColor(.white)
                     .transition(.opacity)
-//                    .id(textTitle)
+                    .id(textTitle)
                 
                 Text("""
         It's not how much we give but
